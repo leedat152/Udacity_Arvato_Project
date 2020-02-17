@@ -20,7 +20,7 @@ I'll have access to a third dataset with attributes from targets of a mail order
 In this section. I'll rank the individuals by how likely they are to convert to being a customer, and see how your modeling skills measure up against your fellow students.
 
 ## Technical Overview
-Step by step workflow from gathering , assessing , cleaning data, exploring data analysis to building model. These steps are:
+Step by step workflow from gathering , assessing , cleaning data, exploring data analysis to building model. These following steps are described in detail in notebook:
 - Gathering data
 - Assessing data
 - Explore data analysis
