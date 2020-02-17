@@ -27,7 +27,7 @@ Step by step workflow from gathering , assessing , cleaning data, exploring data
 - Dimensionality Reduction
 - Clustering using KMeans
 - Supervised learning
-- Tunning model 
+- Tuning model 
 - Kaggle competition
 
 ## Installation 
