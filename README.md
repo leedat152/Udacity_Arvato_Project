@@ -35,4 +35,6 @@ Besides the libraries included in Anaconda distribution for Python 3.6, I have u
 - `XGBosst` - an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable
 
 ## Results
-<img src="photo/Screen Shot 2020-02-18 at 9.48.03 AM.png">
+<img src="photo/Screen Shot 2020-02-18 at 9.48.03 AM.png"> 
+
+For more specific, you can find this blog [here](https://medium.com/@datlee1502/customer-segmentation-for-arvato-financial-services-9a3c118f33a5)
